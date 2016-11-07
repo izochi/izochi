@@ -1,6 +1,7 @@
 package com.izochi;
 
 import com.facebook.react.ReactActivity;
+import com.oblador.vectoricons.VectorIconsPackage;
 import fr.bamlab.textinput.ReactTextInputPackage;
 
 public class MainActivity extends ReactActivity {

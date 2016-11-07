@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-start',
     textAlign: 'center',
     margin: 30,
-    fontFamily: 'Verdana'
+    fontFamily: 'UltimaPDaa'
   },
   form: {
     marginTop: 0,
@@ -25,10 +25,14 @@ const styles = StyleSheet.create({
     alignItems: 'stretch'
   },
   input: {
+    textAlign: 'center',
     height: 40,
+    padding: 0,
     margin: 5
   },
   input_container: {
+    padding: 0,
+    margin: 10,
     borderBottomColor: '#d3d3d3',
     borderBottomWidth: 1
   },
