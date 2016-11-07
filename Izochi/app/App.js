@@ -35,11 +35,11 @@ export default class Izochi extends Component {
 
             <View style={styles.input_container}>
               <TextInput style={styles.input}
-              ref="username" placeholder="name"/>
+              ref="username" placeholder="New username"/>
             </View>
             <View style={styles.input_container}>
               <TextInput style={styles.input}
-              ref="email" placeholder="email"/>
+              ref="password" placeholder="New password"/>
             </View>
 
             <View style={styles.button_align}>
